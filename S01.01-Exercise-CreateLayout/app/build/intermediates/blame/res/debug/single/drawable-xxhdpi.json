@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_snow.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_snow.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_clear.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_fog.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_fog.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_rain.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_rain.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_storm.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_storm.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_fog.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-xxhdpi/art_fog.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_light_rain.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_light_rain.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cloudy.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_cloudy.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_clear.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-xxhdpi/art_clear.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_light_clouds.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_light_clouds.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_snow.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-xxhdpi/art_snow.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_logo.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_storm.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-xxhdpi/art_storm.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_light_rain.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-xxhdpi/art_light_rain.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_light_clouds.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-xxhdpi/art_light_clouds.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_rain.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-xxhdpi/art_rain.png"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_clouds.png",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-xxhdpi/art_clouds.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_fog.xml",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_fog.xml"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_storm.xml",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_storm.xml"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_snow.xml",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_snow.xml"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_light_clouds.xml",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_light_clouds.xml"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_light_rain.xml",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_light_rain.xml"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_clouds.xml",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_clouds.xml"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_clear.xml",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_clear.xml"
+    },
+    {
+        "merged": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/art_rain.xml",
+        "source": "/Users/mouramiri/Documents/Sunshine-Code-Repository/S01.01-Exercise-CreateLayout/app/build/generated/res/pngs/debug/drawable-anydpi-v21/art_rain.xml"
+    }
+]
